@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eStoreWebsite", "eStoreWebsite\eStoreWebsite.csproj", "{BF9D16B6-B516-4BBA-A47F-C75C0A3AFF9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eStoreWebObjects", "eStoreWebObjects\eStoreWebObjects.csproj", "{25AAD2C0-FC5F-4B65-8730-1881B43C20E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eStoreDataObjects", "eStoreDataObjects\eStoreDataObjects.csproj", "{EB35EDB4-0B46-4323-ACB1-A54B07ACFE7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF9D16B6-B516-4BBA-A47F-C75C0A3AFF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9D16B6-B516-4BBA-A47F-C75C0A3AFF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9D16B6-B516-4BBA-A47F-C75C0A3AFF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9D16B6-B516-4BBA-A47F-C75C0A3AFF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25AAD2C0-FC5F-4B65-8730-1881B43C20E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25AAD2C0-FC5F-4B65-8730-1881B43C20E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25AAD2C0-FC5F-4B65-8730-1881B43C20E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25AAD2C0-FC5F-4B65-8730-1881B43C20E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB35EDB4-0B46-4323-ACB1-A54B07ACFE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB35EDB4-0B46-4323-ACB1-A54B07ACFE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB35EDB4-0B46-4323-ACB1-A54B07ACFE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB35EDB4-0B46-4323-ACB1-A54B07ACFE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
